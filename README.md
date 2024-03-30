@@ -29,7 +29,7 @@ cat chainflip/lp-keys.json | jq -r '.signing_key.secret_key' > chainflip/keys/lp
 
 1. Get some `tFLIP`
 
-    a. Add the `tFLIP` token to your wallet using the following address: `0x0485D65da68b2A6b48C3fA28D7CCAce196798B94`
+    a. Add the `tFLIP` token to your wallet using the following address: `0xdC27c60956cB065D19F08bb69a707E37b36d8086`
 
     b. Get in touch with us on [Discord](https://discord.com/channels/824147014140952596/1045323960339935342) and we'll send you some `tFLIP`
 
@@ -42,7 +42,7 @@ cat chainflip/broker-keys.json | jq -r '.signing_account_id'
 cat chainflip/lp-keys.json | jq -r '.signing_account_id'
 ```
 
-3. Then head to the [Auctions Web App](https://auctions-perseverance.chainflip.io/nodes)
+3. Then head to the [Auctions Web App](https://auctions.perseverance.chainflip.io/nodes)
 4. Connect your wallet
 5. Click "Add Node"
 6. Follow the instructions to fund the account
